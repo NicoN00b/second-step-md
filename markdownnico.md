@@ -1,12 +1,12 @@
-#heading about my day
+# heading about my day
 
-##list of things along the way in my day
+## list of things along the way in my day
 * bomb gladstone
 * central eastside
 * eastbank esplanade
 * Northwest Construction Zone
 
-##list of foods I ate in Order
+## list of foods I ate in Order
 
 1. chowder
 2. pizza pocket
